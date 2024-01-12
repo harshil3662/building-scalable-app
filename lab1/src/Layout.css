@@ -1,0 +1,12 @@
+.navbar{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 1em;
+    width: fit-content;
+}
+
+.link{
+    margin: 1em;
+    color: blue;
+    font-size: 1.2em;
+}
