@@ -43,7 +43,10 @@
 
 <h1>Push image to Docker Hub:</h1>
 
-<img width="1470" alt="dockerhub" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/887cc8f5-5a86-4536-a839-9dc60069b273">
+<img width="531" alt="296147904-887cc8f5-5a86-4536-a839-9dc60069b273" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/764c94e4-9077-4086-b903-28801eb18171"><br>
+
+<img width="698" alt="296147904-887cc8f5-5a86-4536-a839-9dc60069b273" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/4f84261f-0b54-41cc-9479-55695c99ae4f">
+
 
 If you want search my image on Docker hub, just search for "harshil3662/harshil" on Dockerhub or click below.
 
