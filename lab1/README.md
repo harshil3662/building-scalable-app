@@ -1,36 +1,49 @@
 <h1>Testing Docker Installation:</h1>
 
-![image](https://github.com/harshil3662/building-scalable-app/assets/87032930/1a134f9b-4b6b-4a4a-85c3-59e7496be488)
+<img width="610" alt="hello-world" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/7fc7f7cb-f87c-45be-937c-d47ea9e6ab93">
 
 
 <hr>
 
 <h1>Running my first container:</h1>
 
-<img width="500" height="500" alt="alpine" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/45cde1d9-aa29-46bc-8ae0-435b581b8930">
-<img width="500" height="500" alt="run alpine" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/324b2d3d-830c-42f1-8786-44287b145f17">
-<img width="500" height="500" alt="docker ps -a" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/fbf9cfba-440c-4dbd-89a0-486a9f8eef44">
+<img width="666" alt="pull-alpine" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/8dafc5fd-b2ae-44ca-9006-ed25a18fcafa">
 
-<hr>
+<img width="519" alt="pull-alpine" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/b728f42e-7ce2-41a1-8345-6720f74d8b87">
 
-<h1>Docker STOP and Remove command</h1>
+<img width="443" alt="pull-alpine" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/d5dfa5d7-f55a-4d59-b1b3-5b0254c7ae29">
 
-<img width="1470" alt="stop-remove" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/330c132a-6a52-4394-b0cf-984bc4cda328">
+<img width="486" alt="pull-alpine" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/f19f19d1-a3cc-4394-a3aa-868036de11bb">
+
+<img width="458" alt="part -2" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/202c2a20-cb36-4c97-b703-5b45b08b0911">
+
+<img width="962" alt="part -2" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/d549a731-4f0d-4aa9-b726-c18abb5dd845">
+
+<img width="822" alt="part-3" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/bc5a96fa-7d48-401c-a2a3-84ed25d8555c">
+
+<img width="951" alt="part-3" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/e342e1f4-ab6c-4037-90b6-4bc099ac0661">
+
+<img width="899" alt="part-3" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/ed39f812-5c04-453c-81de-84b24b462e89">
 
 <hr>
 
 <h1>Run my Webapp after adding Dockerfile</h1>
 
-<img width="1470" alt="docker run" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/6e531a5c-264d-40b5-a319-25a7734865df">
-<img width="1470" alt="webapp" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/5856e7fd-d5ed-43fd-8591-de7f0858aee1">
+<img width="724" alt="Screenshot 2024-01-12 at 10 44 16 PM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/c660f0bf-2779-41fa-a35e-3f326bb24b9f">
 
+<img width="529" alt="Screenshot 2024-01-12 at 10 44 16 PM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/4e504147-cf6e-4e07-8e0b-74be66aedb7b">
 
+<img width="473" alt="Screenshot 2024-01-12 at 10 44 16 PM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/aaa0c078-9bf0-47c5-a625-5df3df4d0646">
+
+<img width="873" alt="home" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/e5f8af61-663c-4cb6-a271-a37fab857dfb">
+
+<img width="842" alt="about" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/b57caf1f-5285-419f-9135-6a39d54ddca2">
+
+<img width="852" alt="cources" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/2f734631-e0b1-458a-80fd-6ccfbefa52f6">
 
 <h1>Push image to Docker Hub:</h1>
 
 <img width="1470" alt="dockerhub" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/887cc8f5-5a86-4536-a839-9dc60069b273">
-
-
 
 If you want search my image on Docker hub, just search for "harshil3662/harshil" on Dockerhub or click below.
 
