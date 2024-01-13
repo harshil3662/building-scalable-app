@@ -1,6 +1,7 @@
 <h1>Testing Docker Installation:</h1>
 
-<img width="500" height="500" alt="hello-world" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/0a489ddf-b9c0-4ef4-a27f-64f6e1eaa53b">
+![image](https://github.com/harshil3662/building-scalable-app/assets/87032930/1a134f9b-4b6b-4a4a-85c3-59e7496be488)
+
 
 <hr>
 
