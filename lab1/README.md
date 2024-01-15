@@ -35,11 +35,30 @@
 
 <img width="473" alt="Screenshot 2024-01-12 at 10 44 16 PM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/aaa0c078-9bf0-47c5-a625-5df3df4d0646"><br>
 
-<img width="873" alt="home" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/e5f8af61-663c-4cb6-a271-a37fab857dfb">
+<img width="873" alt="home" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/e5f8af61-663c-4cb6-a271-a37fab857dfb"><br>
 
-<img width="842" alt="about" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/b57caf1f-5285-419f-9135-6a39d54ddca2">
+<img width="842" alt="about" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/b57caf1f-5285-419f-9135-6a39d54ddca2"><br>
 
-<img width="852" alt="cources" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/2f734631-e0b1-458a-80fd-6ccfbefa52f6">
+<img width="852" alt="cources" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/2f734631-e0b1-458a-80fd-6ccfbefa52f6"><br>
+
+<h1>Deploying an app to a Swarm</h1>
+
+<img width="985" alt="Screenshot 2024-01-14 at 8 34 03 PM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/357ec2f3-86d7-417d-953b-943ab631a425"><br>
+
+<img width="734" alt="Screenshot 2024-01-14 at 8 34 11 PM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/7c2c09d3-aa6c-41d0-97c9-2b5cd9cef328"><br>
+
+<img width="883" alt="Screenshot 2024-01-14 at 8 34 11 PM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/6f1aecc9-9b4e-45e9-ae3b-c0c3edd1f2e4"><br>
+
+<h4>Running application on localhost:8888 <h4>
+
+<img width="1470" alt="Screenshot 2024-01-14 at 8 33 07 PM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/f8b1886a-0a8b-4fd9-860a-4bee03fed00e"><br>
+
+<h4>Voting result on localhost:5001 <h4>
+
+<img width="1470" alt="Screenshot 2024-01-14 at 8 32 56 PM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/83c2a01d-ca81-4524-beee-6a96569659e4"><br>
+
+<img width="496" alt="Screenshot 2024-01-14 at 8 34 11 PM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/eec16a65-24c3-4b58-957b-033470530dde"><br>
+
 
 <h1>Push image to Docker Hub:</h1>
 
