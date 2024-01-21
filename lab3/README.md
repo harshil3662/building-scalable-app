@@ -50,11 +50,29 @@
 
 <h3>Deployment example with resource limits.</h3>
 
+<img width="481" alt="screenshot-7" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/0ec085bc-f336-4e12-9ce8-81e7151b4b0f">
+
 <h3>Deployment with health checks.</h3>
+
+<img width="482" alt="screenshot-7" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/89e84e38-f41f-4fbb-85ef-ff0efab217b0">
 
 <h2>Full stack Application Deployment</h2>
 
+<img width="802" alt="screenshot-8" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/d01b8e6c-ecaf-4ebb-adf4-b87766b688ca">
+<img width="654" alt="screenshot-9" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/ba8f3bba-41ba-455e-89ea-6d84cff87446">
+<img width="797" alt="screenshot-9" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/0bee7ba7-452d-40c3-bafa-3eda64b5e0d3">
+
+<img width="1462" alt="frontend" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/000d95cd-f2a2-4535-a58b-31c864588cc5">
+<img width="657" alt="screenshot-11" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/bc171e5c-d16b-4d3e-a1b3-2b5ca76505e2">
+<img width="780" alt="screenshot-11" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/dec8505f-d3f3-4815-98d8-809da49b2789">
+<img width="583" alt="screenshot-11" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/17553505-4dab-4f95-87d3-1ad205f89ab0">
+
+
+
 <h3>Task: Bring down note-depp pod. </h3>
+
+<img width="633" alt="screenshot-11" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/eea5a73b-8e85-4909-b831-80f364c017c6">
+
 
 
 
