@@ -21,7 +21,7 @@
 
 <h3>To stop the node and clean minikube environment</h3>
 
-<img width="780" alt="Screenshot 2024-01-20 at 11 11 16 PM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/3902e2f3-c148-45c1-a4da-c8ab58f26a69"><br>
+<img width="780" alt="Screenshot 2024-01-20 at 11 11 16 PM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/3902e2f3-c148-45c1-a4da-c8ab58f26a69"><br><br>
 <img width="776" alt="Screenshot 2024-01-20 at 11 11 16 PM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/3e517998-534f-4d4a-993a-7ea04a19586c"><br>
 
 <h2>ReplicaSet Demo</h2>
@@ -67,6 +67,8 @@
 <img width="583" alt="screenshot-11" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/17553505-4dab-4f95-87d3-1ad205f89ab0"><br>
 
 <h3>Task: Bring down note-depp pod. </h3>
+
+<p>When I tried to delete</p>
 
 <img width="633" alt="screenshot-11" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/eea5a73b-8e85-4909-b831-80f364c017c6">
 
