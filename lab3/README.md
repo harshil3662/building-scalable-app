@@ -68,7 +68,7 @@
 
 <h3>Task: Bring down note-depp pod. </h3>
 
-<p>When I tried to delete</p>
+<p>When I tried to delete one of the note-deployment pods, It deleted the pod successfully and will create another one as we can see in the image below.</p>
 
 <img width="633" alt="screenshot-11" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/eea5a73b-8e85-4909-b831-80f364c017c6">
 
