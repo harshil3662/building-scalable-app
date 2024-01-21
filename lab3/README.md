@@ -26,13 +26,27 @@
 
 <h2>ReplicaSet Demo</h2>
 
+<img width="768" alt="screenshot-3" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/f32fe64a-2bf6-4576-aad5-ec102f1f7a00">
+<img width="432" alt="screenshot-3" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/d22d7eb4-366d-4044-9093-3c0028247ce2">
+<img width="339" alt="screenshot-4" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/948d9ec8-4100-42a6-a1fb-41d79a9210bd">
+
+
 <h3>Delete a pod in the ReplicaSet</h3>
+
+<img width="435" alt="screenshot-4" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/1aa8b573-c1b3-4dfc-b203-08d2c88b8e96">
 
 <h3>Deployment YAML with ReplicaSet</h3>
 
+<img width="447" alt="screenshot-5" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/8af86ed8-6ad4-427c-b35f-fab4bbb02ed8">
+<img width="559" alt="screenshot-5" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/e25df3af-fb16-433b-b8be-e0786e45ec69">
+
 <h3>StatefulSet YAML</h3>
 
+<img width="457" alt="screenshot-5" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/4a0d6f6c-eb1f-4698-94a2-5f9b4f00f08b">
+
 <h3>DaemonSet YAML.</h3>
+
+<img width="654" alt="screenshot-6" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/f419d115-bfc1-4df1-88cb-de6338dc4c68">
 
 <h3>Deployment example with resource limits.</h3>
 
