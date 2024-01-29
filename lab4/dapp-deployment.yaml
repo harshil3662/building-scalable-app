@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: dapp
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: dapp
+  template:
+    metadata:
+      labels:
+        app: dapp
+    spec:
+      containers:
+      - name: dapp
+        image: schadokar/eth-server:1.0.0
+        env:
+        - name: CONTAINER_PORT
+          valueFrom:
+            configMapKeyRef:
+              name: dapp-config
+              key: container-port
