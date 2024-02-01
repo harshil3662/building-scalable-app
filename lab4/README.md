@@ -18,4 +18,23 @@ I have used Replicaset over Statefulset, because I have double checked about eve
 <h2>front-react:</h2>
 <img width="1442" alt="react" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/6d18cae5-3f46-4e2b-af0c-9fe9dad772fb">
 
+<h1>Creating a Persistent Volume:</h1>
+<br>
+<img width="562" alt="pv" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/df36edd3-7947-4fc6-ba9f-18319b9eac3b"><br>
+
+<h1>Horizontal scalling on Dapp-server deployment:</h1>
+<br>
+- I have applied horizontal scalling on my Dapp-server deployment by making 5 replicas hitting following command.
+<img width="680" alt="scalling" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/38f1e31d-1807-4267-9300-f6004205b69f"><br>
+
+<h1>Load Balancing on Dapp-server deployment using Nordport:</h1>
+<br>
+- I used nordPort service on my dapp-server to handle load balancing.
+-Though Using Ingress service on this deployment doesn't make any sense since I haven't deployed my dapp server application to the cloud.
+<img width="1006" alt="load balancing" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/cf2839ef-c411-4cce-b478-35b68bd33944"><br>
+
+<h1>Config mapping on deployment:</h1>
+<br>
+- well,in this project, we are not using sensitive data. Though, instead I have used config map by passing desired port number through config map. 
+<img width="551" alt="Screenshot 2024-02-01 at 1 44 41 AM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/79bec713-dc94-4e91-a346-c6f175b45905">
 
