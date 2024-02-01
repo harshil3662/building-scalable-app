@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: dapp
 spec:
-  replicas: 1
+  replicas: 2
   selector:
     matchLabels:
       app: dapp
@@ -21,3 +21,10 @@ spec:
             configMapKeyRef:
               name: dapp-config
               key: container-port
+        volumeMounts:
+        - name: data-volume
+          mountPath: "/app/ethereum/"
+      volumes:
+      - name: data-volume
+        persistentVolumeClaim:
+          claimName: dapp-store-claim
