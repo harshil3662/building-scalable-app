@@ -30,7 +30,7 @@ I have used Replicaset over Statefulset, because I have double checked about eve
 
 <h1>Load Balancing on Dapp-server deployment using Nordport:</h1>
 <br>
-- I used nordPort service on my dapp-server to handle load balancing.
+- I used nordPort service on my dapp-server to handle load balancing.<br>
 -Though Using Ingress service on this deployment doesn't make any sense since I haven't deployed my dapp server application to the cloud.<br>
 <br>
 <img width="1006" alt="load balancing" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/cf2839ef-c411-4cce-b478-35b68bd33944"><br>
