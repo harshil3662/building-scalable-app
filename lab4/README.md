@@ -42,3 +42,8 @@ I have used Replicaset over Statefulset, because I have double checked about eve
 <br>
 <img width="551" alt="Screenshot 2024-02-01 at 1 44 41 AM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/79bec713-dc94-4e91-a346-c6f175b45905">
 
+<h1>Role binding with a user:</h1>
+<br>
+
+<img width="568" alt="Screenshot 2024-02-01 at 2 15 37 AM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/1502bc3a-4cd8-4786-8d8a-8abaea04a5ac">
+
