@@ -15,13 +15,15 @@
 
 <h1>Connect Prometheus as Data source to Grafana:</h1>
 <br>
-<img width="1470" alt="screenshot-1" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/0db7460f-ed9c-494a-9f51-de3155121ef3">
+<img width="1464" alt="303129463-0db7460f-ed9c-494a-9f51-de3155121ef3" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/7429fdd1-6f25-4f46-9bc6-7bcf05ea3815">
 <br>
 
 <h1>Create a custom dashboard with 3 visualizations of your choice:</h1>
 <br>
-<img width="1470" alt="screenshot-2" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/9767e30d-252e-4966-926f-106f45097fb2">
+<img width="1462" alt="sreenshot-1" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/9396bf5b-cfdc-4424-b0cb-bf41840e298e">
+
 <br>
-<img width="1470" alt="screenshot-3" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/81415c53-54fb-4508-bbe4-2e3da079da65">
+<img width="1466" alt="screenshot-2" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/7ada6050-97bd-423c-bcb4-6085e49e93dc">
+
 <br>
 
