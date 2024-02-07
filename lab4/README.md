@@ -1,5 +1,13 @@
 <h1>Lab 4</h1>
 
+
+<h1>Architecture for dapp:</h1>
+<br>
+<img width="637" alt="Screenshot 2024-02-01 at 9 11 53 PM" src="https://github.com/harshil3662/building-scalable-app/assets/87032930/a1772984-4830-4410-a21b-3a1d72cca9cf">
+<br>
+<br>
+
+
 I have used Replicaset over Statefulset, because I have double checked about every images (ganache,dapp and react). It doesn't change inside. So there was no need for creating statefulset.
 
 <h1>Ruuning Every Object in my cluster</h1>
